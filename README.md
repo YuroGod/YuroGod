@@ -1,6 +1,6 @@
 # Welcome to here🥰
 
-Hi I'm Tubitu, I'm a student studying computer technology, I'm from China.🌹
+learning...
 
 ## ✨My skills✨
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
