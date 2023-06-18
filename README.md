@@ -14,9 +14,9 @@ learning...
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 
 ## ✨GitHub stats✨
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tubitu&show_icons=true&theme=transparent)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tubitu&layout=compact)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsunX&show_icons=true&theme=transparent)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsunX&layout=compact)<br/>
 
 
 ## ✨Visitor Count✨
-![Visitor Count](https://profile-counter.glitch.me/tubitu/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sunsunx/count.svg)
