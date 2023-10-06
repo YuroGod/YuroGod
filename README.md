@@ -18,11 +18,11 @@ learning...
 Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/><br/>
 
 ## ✨GitHub stats✨
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsunX&show_icons=true&theme=transparent)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsunX&layout=compact)<br/><br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuroGod&show_icons=true&theme=transparent)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuroGod&layout=compact)<br/><br/>
 
 ## ✨Discord Status✨
 [![Discord Presence](https://lanyard.cnrad.dev/api/1000474353927979038)](https://discord.com/users/1000474353927979038)<br/><br/>
 
 ## ✨Visitor Count✨
-![Visitor Count](https://profile-counter.glitch.me/sunsunx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/YuroGod/count.svg)
