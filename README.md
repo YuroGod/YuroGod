@@ -13,6 +13,9 @@ learning...
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 
+## Contact Me
+Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/>
+
 ## ✨GitHub stats✨
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsunX&show_icons=true&theme=transparent)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsunX&layout=compact)<br/>
