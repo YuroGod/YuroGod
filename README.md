@@ -14,14 +14,15 @@ learning...
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 
 ## ✨Contact Me✨
-Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/>
+<a href="https://discordapp.com/users/1000474353927979038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1000474353927979038" height="30" width="40" /></a>
+Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/><br/>
 
 ## ✨GitHub stats✨
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsunX&show_icons=true&theme=transparent)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsunX&layout=compact)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsunX&layout=compact)<br/><br/>
 
 ## ✨Discord Status✨
-[![Discord Presence](https://lanyard.cnrad.dev/api/1000474353927979038)](https://discord.com/users/1000474353927979038)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1000474353927979038)](https://discord.com/users/1000474353927979038)<br/><br/>
 
 ## ✨Visitor Count✨
 ![Visitor Count](https://profile-counter.glitch.me/sunsunx/count.svg)
