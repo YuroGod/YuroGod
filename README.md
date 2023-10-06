@@ -13,7 +13,7 @@ learning...
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 
-## Contact Me
+## ✨Contact Me✨
 Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/>
 
 ## ✨GitHub stats✨
