@@ -3,6 +3,7 @@
 ## ✨About Me✨
 - 💻 Reverse engineer & Developer
 - 🏠 Blog: [yuro's blog](https://yurogod.github.io/)
+- ❄️ Kanxue: [TubituX](https://bbs.kanxue.com/homepage-958990.htm)
 - 📫 E-mail: [yurogod@foxmail.com](mailto:yurogod@foxmail.com)
 
 ## ✨Contact Me✨
