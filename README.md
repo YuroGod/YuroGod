@@ -5,7 +5,7 @@
 - 🏠 Blog: [yuro's blog](https://yurogod.github.io/)
 - ❄️ Kanxue: [TubituX](https://bbs.kanxue.com/homepage-958990.htm)
 - 📫 E-mail: [yurogod@foxmail.com](mailto:yurogod@foxmail.com)
-- 
+
 Also, the stats may be incorrect because most of my repos and contributions are private
 
 ## ✨Contact Me✨
