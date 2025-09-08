@@ -12,6 +12,7 @@ Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/><br/>
 
 ## ✨GitHub Stats✨
 Also, the stats may be incorrect because most of my repos and contributions are private
+
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=YuroGod&show_icons=true&theme=transparent" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuroGod&layout=compact" />
 
 ## ✨Discord Status✨
