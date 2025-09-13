@@ -19,4 +19,4 @@ Also, the stats may be incorrect because most of my repos and contributions are 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1000474353927979038)](https://discord.com/users/1000474353927979038)<br/><br/>
 
 ## ✨Visitor Count✨
-![Visitor Count](https://profile-counter.glitch.me/YuroGod/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=YuroGod)
