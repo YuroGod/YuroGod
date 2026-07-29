@@ -13,7 +13,7 @@ Discord: [Yuro](https://discordapp.com/users/1000474353927979038)<br/><br/>
 ## ✨GitHub Stats✨
 Also, the stats may be incorrect because most of my repos and contributions are private
 
-<img align="" height="137px" src="https://github-stats-extended.vercel..vercel.app/api?username=YuroGod&show_icons=true&theme=transparent" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuroGod&layout=compact&exclude_repo=YuroGod.github.io" />
+<img align="" height="137px" src="https://github-stats-extended.vercel.app/api?username=YuroGod&show_icons=true&theme=transparent" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuroGod&layout=compact&exclude_repo=YuroGod.github.io" />
 
 ## ✨Discord Status✨
 [![Discord Presence](https://lanyard.cnrad.dev/api/1000474353927979038)](https://discord.com/users/1000474353927979038)<br/><br/>
